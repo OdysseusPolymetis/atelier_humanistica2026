@@ -1,6 +1,6 @@
 ![Alt text](images/readme.png)
 # Atelier Humanistica 2026 — TAL, IA et lettres classiques
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20282738.svg)](https://doi.org/10.5281/zenodo.20282738)
 Ce dépôt rassemble les carnets Python utilisés pour un atelier Humanistica 2026 consacré aux usages du traitement automatique des langues (TAL), des modèles de langue et des méthodes d'intelligence artificielle pour les textes anciens, principalement en latin et en grec ancien.
 
 L'objectif est pédagogique : proposer des notebooks exécutables, modifiables et réutilisables pour explorer progressivement plusieurs tâches courantes en humanités numériques classiques : prétraitement linguistique, vectorisation, classification, reconnaissance d'entités nommées, topic modeling et RAG.
@@ -108,4 +108,3 @@ Si vous réutilisez ces carnets dans un cours, un atelier ou un projet de recher
 ```text
 Reboul Marianne. (2026). OdysseusPolymetis/atelier_humanistica2026: zenodo_included (Version v2). Zenodo. https://doi.org/10.5281/zenodo.20282738
 ```
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20282738.svg)](https://doi.org/10.5281/zenodo.20282738)
