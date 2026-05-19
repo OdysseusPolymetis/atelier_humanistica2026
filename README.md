@@ -106,7 +106,6 @@ Ce dépôt est distribué sous licence **GNU GPL v3**. Voir le fichier `LICENSE`
 Si vous réutilisez ces carnets dans un cours, un atelier ou un projet de recherche, vous pouvez citer le dépôt sous la forme :
 
 ```text
-Atelier Humanistica 2026 — TAL, IA et lettres classiques.
-OdysseusPolymetis, GitHub, 2026.
-https://github.com/OdysseusPolymetis/atelier_humanistica2026
+Reboul Marianne. (2026). OdysseusPolymetis/atelier_humanistica2026: zenodo_included (Version v2). Zenodo. https://doi.org/10.5281/zenodo.20282738
 ```
+[![DOI](https://zenodo.org/badge/1241360428.svg)](https://doi.org/10.5281/zenodo.20282737)
