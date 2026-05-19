@@ -1,3 +1,4 @@
+![Alt text](images/readme.png)
 # Atelier Humanistica 2026 — TAL, IA et lettres classiques
 
 Ce dépôt rassemble les carnets Python utilisés pour un atelier Humanistica 2026 consacré aux usages du traitement automatique des langues (TAL), des modèles de langue et des méthodes d'intelligence artificielle pour les textes anciens, principalement en latin et en grec ancien.
