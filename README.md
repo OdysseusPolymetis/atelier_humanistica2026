@@ -108,3 +108,4 @@ Si vous réutilisez ces carnets dans un cours, un atelier ou un projet de recher
 ```text
 Reboul Marianne. (2026). OdysseusPolymetis/atelier_humanistica2026: zenodo_included (Version v2). Zenodo. https://doi.org/10.5281/zenodo.20282738
 ```
+[training data](https://drive.google.com/file/d/1nMP_bLj35opk7TGBGd46ql3XRntRAKOL/view?usp=sharing)
