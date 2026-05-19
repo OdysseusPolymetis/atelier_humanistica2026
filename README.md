@@ -37,7 +37,7 @@ Les carnets sont conçus pour être exécutés facilement dans Google Colab. Il 
 Pour les notebooks les plus lourds (`3_ner_lat_gk.ipynb`, `4_topic_modeling_bertopic_grec.ipynb`, `5_rag_scaife_qwen.ipynb`), il est préférable d'activer un GPU dans Colab :
 
 ```text
-Exécution > Modifier le type d'exécution > Accélérateur matériel > GPU
+Exécution > Modifier le type d'exécution > GPU T4
 ```
 
 ### Option locale
@@ -95,21 +95,6 @@ Ces notebooks sont pensés pour un atelier d'initiation et d'expérimentation. I
 - comment les représentations vectorielles permettent de rapprocher formes, mots, passages ou textes ;
 - comment les modèles multilingues peuvent être mobilisés pour des corpus latins et grecs ;
 - quelles limites subsistent : erreurs d'annotation, bruit dans les entités nommées, dépendance aux données d'entraînement, coût computationnel, interprétabilité des résultats.
-
-## Structure rapide
-
-```text
-.
-├── 0_nlp_lat_gk.ipynb
-├── 1_word_vectors_from_treebank.ipynb
-├── 2_bases_transformers.ipynb
-├── 3_ner_lat_gk.ipynb
-├── 4_topic_modeling_bertopic_grec.ipynb
-├── 5_rag_scaife_qwen.ipynb
-├── atelier_llm_classics_humanistica.pdf
-├── LICENSE
-└── README.md
-```
 
 ## Licence
 
